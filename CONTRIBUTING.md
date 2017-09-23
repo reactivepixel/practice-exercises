@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-To contribute to this repo, check the [issues page](issues/) for active requests. Requests will be tagged with their subject area. Feel free to add an issue, either for yourself to work on or for others to contribute to. If you notice a problem or area for improvement on an existing excercise, [create a new issue for it](issues/new).
+To contribute to this repo, check the [issues page](https://github.com/fswebdev/practice-exercises/issues) for active requests. Requests will be tagged with their subject area. Feel free to add an issue, either for yourself to work on or for others to contribute to. If you notice a problem or area for improvement on an existing excercise, [create a new issue for it](https://github.com/fswebdev/practice-exercises/issues/new).
 
 ## The Contribution Workflow
 
@@ -8,7 +8,7 @@ In general, the contribution workflow looks like this:
 
 ### 1. Claim an Issue 
 
-Once you've found the issue you want to work on via the [Issue Tracker](issues/), reply to it letting everyone know that you plan to work on it. Feel free to ask questions, discuss features, etc in the issue replies.
+Once you've found the issue you want to work on via the [Issue Tracker](https://github.com/fswebdev/practice-exercises/issues), reply to it letting everyone know that you plan to work on it. Feel free to ask questions, discuss features, etc in the issue replies.
 
 ### 2. Fork the repo & clone locally
 
