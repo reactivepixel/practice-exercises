@@ -20,6 +20,11 @@ Connect to an API of your choice and display data to the user. Here are a few po
 - Wikipedia: [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
 - Books: [Open Library API](https://openlibrary.org/developers/api)
 
+## Useful resources
+
+- [Fetch API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [How to Use the JavaScript Fetch API to Get Data ― Scotch](https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data)
+
 ## Base Requirements
 
 - Use the Fetch or XHR method in javascript
