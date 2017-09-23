@@ -2,6 +2,10 @@
 
 This repository acts as a place for portfolio instructors to request and organize practice exercises.
 
+## Completed Exercises
+
+- [Use AJAX to connect to an external API](exercises/using-ajax.md)
+
 ## Getting Started
 
 Need an exercise created? Request one on the [Issues Page](https://github.com/fswebdev/practice-exercises/issues).
