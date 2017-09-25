@@ -5,6 +5,7 @@ This repository acts as a place for portfolio instructors to request and organiz
 ## Completed Exercises
 
 - [Use AJAX to connect to an external API](exercises/using-ajax.md)
+- [Create a Starter Repo](exercises/basic-starter.md)
 
 ## Getting Started
 
