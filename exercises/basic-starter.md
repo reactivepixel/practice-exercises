@@ -7,6 +7,7 @@ categories:
   - Javascript
   - CSS
   - HTML
+  - git
 ---
 
 Create a basic starter repository that includes common files, settings, and folder structure for your projects. This can act as a repo that you clone and reuse for new projects, and can be updated over time.
