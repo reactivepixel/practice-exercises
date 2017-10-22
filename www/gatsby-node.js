@@ -3,25 +3,24 @@ const path = require(`path`)
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
   const exerciseTemplate = path.resolve(`src/templates/exercise.js`)
-  return graphql(`{
-          allMarkdownRemark(
-            limit: 1000
-          ) {
-            edges {
-              node {
-                fields {
-                  slug
-                }
-                frontmatter {
-                  title
-                  difficulty
-                  categories
-                }
-              }
+  return graphql(`
+    {
+      allMarkdownRemark(limit: 1000) {
+        edges {
+          node {
+            fields {
+              slug
+            }
+            frontmatter {
+              title
+              difficulty
+              categories
             }
           }
         }
-          `).then(result => {
+      }
+    }
+  `).then(result => {
     if (result.errors) {
       return Promise.reject(result.errors)
     }
