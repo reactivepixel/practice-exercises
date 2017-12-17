@@ -7,7 +7,8 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "netlify": "yarn install && yarn build"
+    "netlify": "yarn install && yarn build",
+    "publish": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^1.9.42",
@@ -17,5 +18,8 @@
     "gatsby-transformer-remark": "^1.7.12",
     "slug": "^0.9.1",
     "styled-components": "^2.2.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
   }
 }

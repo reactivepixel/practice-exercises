@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Title"
   },
+  pathPrefix: "/practice-exercises",
   plugins: [
     "gatsby-plugin-styled-components",
     {
