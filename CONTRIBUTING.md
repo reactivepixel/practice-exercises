@@ -46,7 +46,7 @@ With your updated code now synced remotely with your fork, you can make a pull r
 
 ![](assets/pr.png)
 
-Leave a message referencing the issue, tagging any necessary people, and describing your update. Make sure you've completed any pre-PR checks as noted in the pull request template. Also confirm that you've selected the right branches to merge. If there are conflicts preventing a merge, you'll want to make sure you've pulled and updates from the original repo that may have happened since you started working. Refer to [Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/) for details on syncing changes to your fork.
+Leave a message referencing the issue, tagging any necessary people, and describing your update. Make sure you've completed any pre-PR checks as noted in the pull request template. Also confirm that you've selected the right branches to merge. If there are conflicts preventing a merge, you'll want to make sure you've pulled any updates from the original repo that may have happened since you started working. Refer to [Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/) for details on syncing changes to your fork.
 
 ![](assets/pr-settings.png)
 
