@@ -1,8 +1,8 @@
 ---
 title: RPG - Classes and Loops
 difficulty: 2
-degree: WDD
-outcome: Central
+degree: Central
+outcome: Nulll
 categories:
   - C#
   - Classes
