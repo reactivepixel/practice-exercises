@@ -1,0 +1,11 @@
+C:\Users\Karl\source\repos\random_loop\random_loop\bin\Debug\netcoreapp2.0\random_loop.deps.json
+C:\Users\Karl\source\repos\random_loop\random_loop\bin\Debug\netcoreapp2.0\random_loop.runtimeconfig.json
+C:\Users\Karl\source\repos\random_loop\random_loop\bin\Debug\netcoreapp2.0\random_loop.runtimeconfig.dev.json
+C:\Users\Karl\source\repos\random_loop\random_loop\bin\Debug\netcoreapp2.0\random_loop.dll
+C:\Users\Karl\source\repos\random_loop\random_loop\bin\Debug\netcoreapp2.0\random_loop.pdb
+C:\Users\Karl\source\repos\random_loop\random_loop\obj\Debug\netcoreapp2.0\random_loop.csprojAssemblyReference.cache
+C:\Users\Karl\source\repos\random_loop\random_loop\obj\Debug\netcoreapp2.0\random_loop.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\random_loop\random_loop\obj\Debug\netcoreapp2.0\random_loop.AssemblyInfoInputs.cache
+C:\Users\Karl\source\repos\random_loop\random_loop\obj\Debug\netcoreapp2.0\random_loop.AssemblyInfo.cs
+C:\Users\Karl\source\repos\random_loop\random_loop\obj\Debug\netcoreapp2.0\random_loop.dll
+C:\Users\Karl\source\repos\random_loop\random_loop\obj\Debug\netcoreapp2.0\random_loop.pdb
