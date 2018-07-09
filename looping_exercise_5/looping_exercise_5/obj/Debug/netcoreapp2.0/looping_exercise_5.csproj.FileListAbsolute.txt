@@ -1,0 +1,11 @@
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\bin\Debug\netcoreapp2.0\looping_exercise_5.deps.json
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\bin\Debug\netcoreapp2.0\looping_exercise_5.runtimeconfig.json
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\bin\Debug\netcoreapp2.0\looping_exercise_5.runtimeconfig.dev.json
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\bin\Debug\netcoreapp2.0\looping_exercise_5.dll
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\bin\Debug\netcoreapp2.0\looping_exercise_5.pdb
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\obj\Debug\netcoreapp2.0\looping_exercise_5.csprojAssemblyReference.cache
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\obj\Debug\netcoreapp2.0\looping_exercise_5.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\obj\Debug\netcoreapp2.0\looping_exercise_5.AssemblyInfoInputs.cache
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\obj\Debug\netcoreapp2.0\looping_exercise_5.AssemblyInfo.cs
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\obj\Debug\netcoreapp2.0\looping_exercise_5.dll
+C:\Users\Karl\source\repos\looping_exercise_5\looping_exercise_5\obj\Debug\netcoreapp2.0\looping_exercise_5.pdb
