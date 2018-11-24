@@ -1,0 +1,11 @@
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\bin\Debug\netcoreapp2.0\syntaxerrors.deps.json
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\bin\Debug\netcoreapp2.0\syntaxerrors.runtimeconfig.json
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\bin\Debug\netcoreapp2.0\syntaxerrors.runtimeconfig.dev.json
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\bin\Debug\netcoreapp2.0\syntaxerrors.dll
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\bin\Debug\netcoreapp2.0\syntaxerrors.pdb
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\obj\Debug\netcoreapp2.0\syntaxerrors.csprojAssemblyReference.cache
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\obj\Debug\netcoreapp2.0\syntaxerrors.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\obj\Debug\netcoreapp2.0\syntaxerrors.AssemblyInfoInputs.cache
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\obj\Debug\netcoreapp2.0\syntaxerrors.AssemblyInfo.cs
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\obj\Debug\netcoreapp2.0\syntaxerrors.dll
+C:\Users\Karl\source\repos\syntaxerrors\syntaxerrors\obj\Debug\netcoreapp2.0\syntaxerrors.pdb

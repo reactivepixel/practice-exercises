@@ -1,0 +1,11 @@
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\bin\Debug\netcoreapp2.0\make_a_playing_card_deck.deps.json
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\bin\Debug\netcoreapp2.0\make_a_playing_card_deck.runtimeconfig.json
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\bin\Debug\netcoreapp2.0\make_a_playing_card_deck.runtimeconfig.dev.json
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\bin\Debug\netcoreapp2.0\make_a_playing_card_deck.dll
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\bin\Debug\netcoreapp2.0\make_a_playing_card_deck.pdb
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\obj\Debug\netcoreapp2.0\make_a_playing_card_deck.csprojAssemblyReference.cache
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\obj\Debug\netcoreapp2.0\make_a_playing_card_deck.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\obj\Debug\netcoreapp2.0\make_a_playing_card_deck.AssemblyInfoInputs.cache
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\obj\Debug\netcoreapp2.0\make_a_playing_card_deck.AssemblyInfo.cs
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\obj\Debug\netcoreapp2.0\make_a_playing_card_deck.dll
+C:\Users\Karl\source\repos\make_a_playing_card_deck\make_a_playing_card_deck\obj\Debug\netcoreapp2.0\make_a_playing_card_deck.pdb
